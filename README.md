@@ -1,0 +1,1 @@
+This is a simple Python script that calculates the percentage of different languages I'm using on Git. It might be useful to implement into maybe a Git dashboard or something in the future, but for the time being, it's just the logic done quick and dirty on Python.
